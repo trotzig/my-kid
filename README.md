@@ -2,7 +2,6 @@
 Features that my kid possesses.
 
 ## Food habits
-* Eat snow
 * Prefer cookies over food
 * Claim to not like pasta despite liking pasta
 
